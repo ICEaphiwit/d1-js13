@@ -1,4 +1,4 @@
-var myName = "Aphiwit Keawkead ";
+var myName = "Aphiwit Keawkead";
 var firstName = "Aphiwit";
 var x = 3;
 y=5;
